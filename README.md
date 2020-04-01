@@ -8,6 +8,10 @@ Some handy shell sccripts that automate your daily + unusual tasks... more on th
 Example - If this is your pwd - /home/dev1/Desktop/Shell_scripts, Enter back 3, you'll be in /home.
 
 
+
+
+
+
 2. Performs computations that terminal normally does not allow
 
 -> calc [a flag -p for setting the calse during division] [scale] [Operation]
@@ -17,6 +21,11 @@ Example - calc -p 5 10/3 = 3.33333
 -> calc [Operation] - For any operation other than division
 
 Example - calc 6*8 = 48
+
+
+
+
+
 
 
 3. Find the longest string inside any text file
