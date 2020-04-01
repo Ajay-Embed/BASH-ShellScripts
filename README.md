@@ -7,6 +7,7 @@ Some handy shell sccripts that automate your daily + unusual tasks... more on th
 
 Example - If this is your pwd - /home/dev1/Desktop/Shell_scripts, Enter back 3, you'll be in /home.
 
+--------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -22,6 +23,7 @@ Example - calc -p 5 10/3 = 3.33333
 
 Example - calc 6*8 = 48
 
+--------------------------------------------------------------------------------------------------------------------------
 
 
 
