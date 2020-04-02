@@ -15,7 +15,7 @@ Example - If this is your pwd - /home/dev1/Desktop/Shell_scripts, Enter back 3, 
 
 2. Performs computations that terminal normally does not allow
 
--> calc [a flag -p for setting the calse during division] [scale] [Operation]
+-> calc [a flag -p for setting the scale during division] [scale] [Operation]
 
 Example - calc -p 5 10/3 = 3.33333
 
